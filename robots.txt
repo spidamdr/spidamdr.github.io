@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://spidamdr.github.io/sitemap
+Sitemap: https://spidamdr.github.io/app/sitemap
+Sitemap: https://spidamdr.github.io/assets/sitemap
+Sitemap: https://spidamdr.github.io/css/sitemap
+Sitemap: https://spidamdr.github.io/includes/sitemap
+Sitemap: https://spidamdr.github.io/item/sitemap
+Sitemap: https://spidamdr.github.io/src/sitemap
